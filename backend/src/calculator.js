@@ -1,5 +1,5 @@
-export const sum = () => {}
+export const sum = (a,b) => a+b
 
-export const subtract = () => {}
+export const subtract = (a,b) => a-b
 
-export const multiply = () => {}
+export const multiply = (a,b) => a*b
